@@ -1,0 +1,12 @@
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\bin\Debug\APP_Facturacion.exe.config
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\bin\Debug\APP_Facturacion.exe
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\bin\Debug\APP_Facturacion.pdb
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\obj\Debug\APP_Facturacion.csprojAssemblyReference.cache
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\obj\Debug\APP_Facturacion.exe
+C:\SENA\Trimestre 3\Dony\Facturacion\Git_Facturacion\APP_Facturacion\obj\Debug\APP_Facturacion.pdb
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\obj\Debug\APP_Facturacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\obj\Debug\APP_Facturacion.exe
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\obj\Debug\APP_Facturacion.pdb
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\bin\Debug\APP_Facturacion.exe.config
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\bin\Debug\APP_Facturacion.exe
+C:\Users\Usuario\Desktop\Taller\APP_Facturacion\bin\Debug\APP_Facturacion.pdb
